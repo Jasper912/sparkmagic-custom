@@ -1,0 +1,3 @@
+{"argv":["python","-m","sparkmagic.kernels.sparksqlkernel.sparksqlkernel", "-f", "{connection_file}"],
+ "display_name":"SparkSQL"
+}
